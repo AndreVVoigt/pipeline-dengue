@@ -1,4 +1,4 @@
-# Projeto de Portfólio: Pipeline de Dados e Sala de Situação da Dengue no Brasil
+# Pipeline de Dados da Dengue no Brasil
 
 ## 🎯 Objetivo
 
